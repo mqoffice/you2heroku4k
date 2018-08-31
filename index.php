@@ -3,11 +3,11 @@ ini_set('display_errors', '0');
 //把下面的资料改成您的
 
 //网站名字
-$siteName='DouDouTube';
+$siteName='PrivateYouTube';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c';
+$key='AIzaSyAsA5Fp03--gqu_onLumi4Ir7RorvchJfs';
 
 
 //其他地方不用改。
